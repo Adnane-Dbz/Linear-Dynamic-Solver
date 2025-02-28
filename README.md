@@ -12,7 +12,7 @@ This repository contains a collection of exercises and solutions in linear and d
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Adnane-Debouze/Linear-Dynamic-Solver.git
 cd your-repo
 
 2️⃣ Install dependencies (if needed)
